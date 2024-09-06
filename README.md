@@ -1,6 +1,6 @@
 # Analysis-of-Micromobile-Taxi-Service-Operation-in-India_python
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ad28691d-3e72-4ff7-a2ec-fdb657aae014)
 
 # Description of the business task and data set
 
@@ -71,6 +71,39 @@ count: загальна кількість велосипедів, взятих 
 * Аналіз впливу погодних умов на бізнес.
 * Дослідження зміни поденної кількості зареєстрованих користувачів.
 * Порівняння кількості користувачів у будні та вихідні дні.
+
+  ![image](https://github.com/user-attachments/assets/8d5b284c-7c25-43d6-942f-9651cb5f2d87)
+
+  ![image](https://github.com/user-attachments/assets/26d28f9a-1d79-4ba8-b824-6f192be33218)
+
+  ![image](https://github.com/user-attachments/assets/6477447a-b2c9-46c3-be12-9b04e0b3f1be)
+
+  ![image](https://github.com/user-attachments/assets/d9d7889d-96e8-43a7-81fb-4452fe9da0e7)
+
+  ![image](https://github.com/user-attachments/assets/cf9a45f2-8cb8-43e7-90ff-81544d66b646)
+
+  ![image](https://github.com/user-attachments/assets/48b467a4-9b00-470a-bc03-eeba4a079d59)
+
+  ![image](https://github.com/user-attachments/assets/b582ae4f-e8f6-48b7-9867-e09a5c85bbd5)
+
+  ![image](https://github.com/user-attachments/assets/3462dc30-7098-4e61-afb9-524ce269ed78)
+
+  ![image](https://github.com/user-attachments/assets/de210599-5911-4f41-830c-51757061a607)
+
+  ![image](https://github.com/user-attachments/assets/21c4a648-8249-4a04-b3f0-08af731fba5c)
+
+  ![image](https://github.com/user-attachments/assets/e451de7b-e8ef-4926-9aaf-8748b99024d4)
+
+
+
+
+
+
+
+
+
+
+
 
   
 

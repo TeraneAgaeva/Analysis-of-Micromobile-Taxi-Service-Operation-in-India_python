@@ -12,22 +12,22 @@ The dataset used in this project is publicly available: dataset link yulu_rental
 
 **List of data set columns:**
 
-datetime: The date and time are collected hourly
-season: season (1: spring, 2: summer, 3: autumn, 4: winter)
-holiday: whether the day is a holiday (retrieved from http://dchr.dc.gov/page/holiday-schedule)
-workingday: if the day is not a weekend or holiday, it is marked as 1, otherwise - 0.
-weather:
+* datetime: The date and time are collected hourly
+* season: season (1: spring, 2: summer, 3: autumn, 4: winter)
+* holiday: whether the day is a holiday (retrieved from http://dchr.dc.gov/page/holiday-schedule)
+* workingday: if the day is not a weekend or holiday, it is marked as 1, otherwise - 0.
+* weather:
 1 - Clear, Partly cloudy, partly cloudy
 2 - Fog + Cloudy, Fog + Broken clouds, Fog + Partly cloudy, Fog
 3 - Light snow, Light rain + Thunderstorm + Scattered clouds, Light rain + Scattered clouds
 4 - Heavy Rain + Ice Balls + Thunderstorm + Fog, Snow + Fog
-temp: temperature in degrees Celsius
-atemp: how the temperature feels in degrees Celsius
-humidity: humidity
-windspeed: wind speed
-casual: number of informal users
-registered: number of registered users
-count: total number of bikes rented, including informal and registered users
+* temp: temperature in degrees Celsius
+* atemp: how the temperature feels in degrees Celsius
+* humidity: humidity
+* windspeed: wind speed
+* casual: number of informal users
+* registered: number of registered users
+* count: total number of bikes rented, including informal and registered users
 
 **The main task of the analysis:**
 

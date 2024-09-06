@@ -10,7 +10,7 @@ Recently, Yulu has faced significant declines in revenue, so the company turned 
 
 The dataset used in this project is publicly available: dataset link yulu_rental.csv https://drive.google.com/file/d/1f3zTW-hRHo1DQrtjjxsA2yTErjQNSvb5/view?usp=sharing
 
-List of data set columns:
+**List of data set columns:**
 
 datetime: The date and time are collected hourly
 season: season (1: spring, 2: summer, 3: autumn, 4: winter)
@@ -29,7 +29,7 @@ casual: number of informal users
 registered: number of registered users
 count: total number of bikes rented, including informal and registered users
 
-The main task of the analysis:
+**The main task of the analysis:**
 
 * Study the dynamics of changes in registered users by period.
 * Seasonal analysis.
@@ -37,7 +37,7 @@ The main task of the analysis:
 * Study of changes in the daily number of registered users.
 * Comparison of the number of users on weekdays and weekends.
   
-# Опис бізнес задачі та набору даних
+** Опис бізнес задачі та набору даних**
 
 Набір даних "Yulu" містить інформацію про попит на спільні електровелосипеди в Індії, що надаються провідним індійським постачальником мікромобільності Yulu. Ця компанія пропонує унікальні транспортні засоби для щоденних поїздок з метою усунення транспортних заторів в Індії та забезпечення безпечного, зручного та доступного рішення для пересування. Зони Yulu розташовані в оптимальних місцях, включаючи станції метро, автобусні зупинки, офісні простори, житлові райони та корпоративні офіси, щоб полегшити поїздки на перші та останні кілометри.
 
@@ -45,7 +45,7 @@ The main task of the analysis:
 
 Набір даних, який використовується в цьому проекті, є загальнодоступним: посилання на набір даних yulu_rental.csv https://drive.google.com/file/d/1f3zTW-hRHo1DQrtjjxsA2yTErjQNSvb5/view?usp=sharing
 
-Перелік колонок набору даних:
+**Перелік колонок набору даних:**
 
 datetime: дата та час зібрані погодинно
 season: сезон (1: весна, 2: літо, 3: осінь, 4: зима)
@@ -64,7 +64,7 @@ casual: кількість неформальних користувачів
 registered: кількість зареєстрованих користувачів
 count: загальна кількість велосипедів, взятих в оренду, включаючи неформальних та зареєстрованих користувачів
 
-Основна задача аналізу:
+**Основна задача аналізу:**
 
 * Дослідити динаміку зміни зареєстрованих користувачів по періодам.
 * Сезонний аналіз.

@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/ad28691d-3e72-4ff7-a2ec-fdb657aae014)
 
-# Description of the business task and data set
+**Description of the business task and data set**
 
 The "Yulu" dataset contains information on demand for shared e-bikes in India, provided by India's leading micromobility provider Yulu. This company offers unique vehicles for daily commutes with the aim of eliminating traffic congestion in India and providing a safe, convenient and affordable solution to mobility. Yulu zones are located in optimal locations, including metro stations, bus stops, office spaces, residential areas and corporate offices, to facilitate the first and last kilometers of travel.
 
